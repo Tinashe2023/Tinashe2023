@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tinashe2023
-- 👀 I’m interested in python programming,html,css,javascript,C
-- 🌱 I’m currently learning C Programming
+- 👀 I’m interested in Building Cool Staff with AI 
+- 🌱 I’m currently studying Electronics at Lovely Professional University
 - 💞️ I’m looking to collaborate on AI & Ml
 - 📫 How to reach me ..Just Tinashe Hando on all social media
 - 😄 Pronouns: Mr/Sir
