@@ -44,10 +44,34 @@
 
 # 🛠 Tech Stack
 
-<p align="center">
+## 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,javascript,solidity" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,nodejs,react,git,linux,anaconda,arduino,css,eclipse,express,firebase,flask,github,gitlab,html,jquery,matlab,mongodb,mysql,postgres,solidity,tailwind,ts,vite,supabase" />
+## 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,jquery,vite" />
+</p>
 
+## ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,supabase" />
+</p>
+
+## 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+## 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,anaconda,eclipse" />
+</p>
+
+## 🔬 Engineering & Embedded
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,matlab" />
 </p>
 
 **Tools**
