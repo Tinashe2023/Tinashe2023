@@ -127,18 +127,8 @@ My long-term goal is to contribute to the development of:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tinashe2023&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tinashe2023&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 Language Usage
-
-<p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tinashe2023&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -153,11 +143,12 @@ My long-term goal is to contribute to the development of:
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tinashe2023&theme=tokyonight&no-frame=true&row=1&column=7">
+![GitHub last commit](https://img.shields.io/github/last-commit/Tinashe2023/Tinashe2023)
+![GitHub repo size](https://img.shields.io/github/repo-size/Tinashe2023/Tinashe2023)
 
 </p>
 
