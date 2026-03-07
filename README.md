@@ -138,9 +138,7 @@ My long-term goal is to contribute to the development of:
 # 📈 Language Usage
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinashe2023&layout=compact&theme=tokyonight&hide_border=true">
-
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tinashe2023&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
