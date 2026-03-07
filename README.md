@@ -47,7 +47,7 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,nodejs,react,git,linux,anaconda,arduino,css,eclipse,
-  express,firebase,flask,github,gitlab,html,jquery,matlab,mongodb,mysql,postgres,solidity,tailwind,ts,vite,supabase&perline=6" />
+  express,firebase,flask,github,gitlab,html,jquery,matlab,mongodb,mysql,postgres,solidity,tailwind,ts,vite,supabase" />
 
 </p>
 
