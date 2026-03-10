@@ -195,9 +195,9 @@ My long-term goal is to contribute to the development of:
 # 🎧 Currently Coding With
 
 <p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem">
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ivcidiwpvgw6g4ichypslugi6u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ivcidiwpvgw6g4ichypslugi6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
 
 ---
