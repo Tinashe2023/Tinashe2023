@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Tinashe+Hando;ECE+Engineer;Quantum+Computing+Researcher;AI+%7C+Quantum+ML+%7C+Communication+Systems;Building+Next+Generation+Intelligent+Systems&center=true&width=900&height=50&color=58A6FF&vCenter=true&size=28">
+<img src="https://readme-typing-svg.demolab.com/?lines=Tinashe+Hando;ECE+Engineer;Quantum+Computing+Researcher;AI+%7C+Quantum+ML+%7C+Communication+Systems;Building+Next+Generation+Intelligent+Systems" />
 </p>
 
 ---
@@ -137,7 +137,7 @@ My long-term goal is to contribute to the development of:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinashe2023&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinashe2023&theme=tokyo-night&hide_border=true">
 
 </p>
 
@@ -196,7 +196,7 @@ My long-term goal is to contribute to the development of:
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ivcidiwpvgw6g4ichypslugi6u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ivcidiwpvgw6g4ichypslugi6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ivcidiwpvgw6g4ichypslugi6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Profile"/>
   </a>
 </p>
 
