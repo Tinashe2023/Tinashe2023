@@ -135,11 +135,10 @@ My long-term goal is to contribute to the development of:
 
 # 📊 Activity Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tinashe2023&theme=tokyo-night&hide_border=true">
-
+<p align="center"> 
+  <img src="https://tinashehando.vercel.app/graph?username=Tinashe2023&theme=tokyo-night&hide_border=true"> 
 </p>
+
 
 ---
 
